@@ -2,6 +2,15 @@ body {
     border: 2px solid turquoise;
     padding: 5px;
     margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    width: 80vw;
+    justify-content: space-around;
 }
     
 h1 {
