@@ -1,3 +1,10 @@
+body {
+    border: 2px solid turquoise;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+    
 h1 {
     color: turquoise;
     font-size: larger;
