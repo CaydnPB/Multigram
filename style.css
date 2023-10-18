@@ -2,12 +2,30 @@ body {
     border: 2px solid turquoise;
     padding: 5px;
     margin: 10px;
-    text-align: center;
 }
     
 h1 {
     color: turquoise;
     font-size: larger;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+article {
+    width: 200px;
+    border: 2px solid;
+    padding: 10px;
+    margin: 10px;
 }
 
 .salmon-bg {
